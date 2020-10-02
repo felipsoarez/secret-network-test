@@ -1,0 +1,1 @@
+{"rustc":7210524046684111384,"features":"[\"default\", \"derive\", \"schemars_derive\"]","target":10429514197457385088,"profile":10055124404637616713,"path":13077829769800829732,"deps":[],"local":[{"CheckDepInfo":{"dep_info":"release/.fingerprint/schemars-babe69baead9b43e/dep-build-script-build-script-build"}}],"rustflags":[],"metadata":11679674351051169359,"config":0}
