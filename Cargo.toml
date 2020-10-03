@@ -1,6 +1,6 @@
 [package]
 name = "mysimplecounter"
-version = "0.1.0"
+version = "0.1.0beta"
 authors = ["datacryptoanalytics <datacryptoanalytics@protonmail.com>"]
 edition = "2018"
 
